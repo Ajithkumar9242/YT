@@ -2,4 +2,4 @@ JUST YOUTUBE CLONE WITH REACT AND MUI
 
 GO AND SEE IT:
 
-astudios.netlify.app/
+https://astudios.netlify.app/
