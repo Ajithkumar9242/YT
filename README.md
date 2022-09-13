@@ -1,5 +1,4 @@
 JUST YOUTUBE CLONE WITH REACT AND MUI
 
-GO AND SEE IT:
+<a href="https://astudios.netlify.app/" target="_blank">GO AND SEE IT:</a>
 
-https://astudios.netlify.app/
